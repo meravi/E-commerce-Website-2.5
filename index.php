@@ -57,7 +57,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
         font-size: 18px;
         text-align: center;
         padding: 14px 16px;
-        color: #fff;
+        color: #3090C7;
         font-weight: bold;
         text-transform: capitalize;
         box-shadow: 5px 3px 0px #28262C;
